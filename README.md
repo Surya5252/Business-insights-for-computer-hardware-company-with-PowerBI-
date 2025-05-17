@@ -25,18 +25,24 @@ Insight:This graph ranks the top 10 products based on total sales.
 •	Product 'X' and Product 'Y' stand out as consistent top sellers.
 •	The revenue contribution from top products is significant, suggesting a reliance on a few key offerings.
 Conclusion: Strategic focus on best-selling products can drive even higher profitability.
+![image](https://github.com/user-attachments/assets/aa6e4f58-052c-4770-bbb9-82306ac20055)
+
 ## 3. Sales Distribution by Region
 Visualization: Pie Chart
 Insight: A snapshot of sales performance across regions.
 •	Region 'A' commands the largest share, followed by Region 'B'.
 •	Lesser-performing regions indicate opportunities for market expansion or targeted marketing efforts.
 Conclusion: Optimizing regional strategies can unlock new revenue streams.
+![image](https://github.com/user-attachments/assets/81f7c0dd-36da-4918-8c81-ec7884de5cbb)
+
 ## 4. Customer Segmentation by Purchase Behaviour
 Visualization: Clustered Bar Chart
 Insight: Segmentation based on purchase frequency and average order value.
 •	'Frequent High-Value' customers form a small but highly profitable group.
 •	'Infrequent Low-Value' buyers may require re-engagement campaigns.
 Conclusion: Tailoring marketing to customer segments can boost loyalty and sales.
+![image](https://github.com/user-attachments/assets/f386061a-86b2-4d2e-b7d2-5509e9f9cadc)
+
 ## 5. Monthly New Customer Acquisition
 Visualization: Area Chart
 Insight: Tracking how many new customers were acquired each month.
